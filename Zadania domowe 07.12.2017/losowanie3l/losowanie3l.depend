@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1512674157 source:c:\users\kondek\desktop\losowanie3l\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+
